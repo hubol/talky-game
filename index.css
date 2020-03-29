@@ -1,0 +1,17 @@
+#gameCanvas {
+  width: 80vmin;
+  height: 80vmin;
+  box-shadow: 2vmin 2vmin 4vmin 0 #44190088;
+}
+
+body {
+  background-color: #ffeef6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+html {
+  height: 96%;
+}
